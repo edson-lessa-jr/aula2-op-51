@@ -29,14 +29,14 @@ EstruturasPesquisaOrdenacao \
 │ ├── ex5.h # Cabeçalho\
 
 # 📖 Funcionalidades Implementadas
-Caminhamento Pré-Ordem (ex1.c)
-Caminhamento Em-Ordem (ex2.c)
-Caminhamento Pós-Ordem (ex3.c)
-Busca em Árvore Binária (ex4.c)
+Caminhamento Pré-Ordem (ex1.c)  
+Caminhamento Em-Ordem (ex2.c)  
+Caminhamento Pós-Ordem (ex3.c)  
+Busca em Árvore Binária (ex4.c)  
 Árvore AVL (balanceamento e inserção) (ex5.c)
 # 📝 Licença
 Este projeto é disponibilizado para fins acadêmicos.
 
-📌 Unicesumar - Disciplina: Estruturas, Pesquisa e Ordenação de Dados
+📌 Unicesumar - Disciplina: Estruturas, Pesquisa e Ordenação de Dados  
 👨‍🏫 Professor Edson Orivaldo Lessa Junior
 
