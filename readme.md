@@ -1,9 +1,9 @@
-# ESTRUTURAS, PESQUISA E ORDENAÇÃO DE DADOS
+# 📌 ESTRUTURAS, PESQUISA E ORDENAÇÃO DE DADOS
 
 **Universidade:** Unicesumar  
 **Professor:** Edson Orivaldo Lessa Junior
 
-## Sobre o Projeto
+## 📋 Sobre o Projeto
 Este repositório contém implementações de árvores binárias de busca (BST) e árvores AVL, 
 abordando operações como caminhamento (pré-ordem, em-ordem, pós-ordem), inserção, 
 busca e balanceamento. O objetivo é demonstrar conceitos fundamentais de estrutura de dados e 
