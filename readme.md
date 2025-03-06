@@ -7,11 +7,11 @@
 Este repositório contém implementações de árvores binárias de busca (BST) e árvores AVL, abordando operações como caminhamento (pré-ordem, em-ordem, pós-ordem), inserção, busca e balanceamento. O objetivo é demonstrar conceitos fundamentais de estrutura de dados e algoritmos de pesquisa e ordenação.
 
 ## Estrutura do Projeto
-EstruturasPesquisaOrdenacao 
-├── 📜 main.c  # Arquivo principal com menu de opções 
-├── 📂 definicaoArvore # Implementação da árvore binária 
-│├── estrutura_arvore.c # Código-fonte da árvore binária 
-│├── estrutura_arvore.h # Cabeçalho da árvore binária 
+EstruturasPesquisaOrdenacao \n
+├── 📜 main.c  # Arquivo principal com menu de opções \n
+├── 📂 definicaoArvore # Implementação da árvore binária\n 
+│├── estrutura_arvore.c # Código-fonte da árvore binária \n
+│├── estrutura_arvore.h # Cabeçalho da árvore binária \n
 ├── 📂 ex1 # Caminhamento pré-ordem 
 │ ├── ex1.c # Código-fonte 
 │ ├── ex1.h # Cabeçalho 
