@@ -3,6 +3,7 @@
 #include "ex2/ex2.h"
 #include "ex3/ex3.h"
 #include "ex4/ex4.h"
+#include "ex5/ex5.h"
 
 
 
@@ -15,7 +16,8 @@ int main(void) {
             printf("2 - Caminhamento Em-Ordem\n");
             printf("3 - Caminhamento Pos-Ordem\n");
             printf("123 - Comparacao dos Caminhamentos\n");
-            printf("4 - Busca Arvore Binaria ");
+            printf("4 - Busca Arvore Binaria \n");
+            printf("5 - Busca Arvore Balanceada \n");
             printf("0 - Sair\n");
             printf("====================\n");
             printf("Escolha uma opcao: ");
@@ -54,6 +56,10 @@ int main(void) {
                     printf("Busca Arvore Binaria \n");
                     ex4();
                     printf("\n");
+                case 5:
+                    printf("Busca Arvore Balanceada\n");
+                ex5();
+                printf("\n");
                 case 0:
                     printf("Saindo do programa...\n");
                 break;

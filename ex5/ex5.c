@@ -73,9 +73,9 @@ struct NO* inserirAVL(struct NO* raiz, int valor) {
 }
 
 // Função para exibir a árvore em-ordem
-void emOrdem(struct NO* raiz) {
+void emOrdem1(struct NO* raiz) {
     if (raiz) {
-        emOrdem(raiz->esq);
+        emOrdem1(raiz->esq);
         printf("%d ", raiz->dado);
         emOrdem(raiz->dir);
     }

@@ -48,8 +48,8 @@ int ex1(void) {
     raiz = inserir(raiz, 80);
 
     // Exibindo a árvore formatada no console com os valores em pré-ordem
-    // printf("Representação visual da arvore (Pre-Ordem):\n");
-    // exibirArvore(raiz);
+     // printf("Representação visual da arvore (Pre-Ordem):\n");
+     // exibirArvore(raiz);
 
     // Exibe a árvore usando o caminhamento pré-ordem
     preOrdem(raiz);

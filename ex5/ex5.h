@@ -7,5 +7,6 @@
 // Funções AVL
 struct NO* inserirAVL(struct NO* raiz, int valor);
 void emOrdem(struct NO* raiz);
+int ex5(void);
 
 #endif
